@@ -1,0 +1,30 @@
+
+
+.jumbotron{
+    background-image: url(../images/restaurant1.jpg);
+    background-size: cover;
+    background-position: 0% 25%;
+    color: white;
+    text-shadow: black 0.3em 0.3em 0.3em;
+    padding-left: 30px;
+}
+.navbar{
+    margin-bottom: 0px;
+}
+.pull-right{
+    border-top-color: gray;
+    margin-top: 5px;
+    padding-top: 5px;
+}
+.fa{
+    color: #3399ff;
+}
+.menu{
+    background-image: url(../images/imagette2.jpg);
+    color: black;
+    text-shadow: white 0.3em 0.3em 0.3em;
+    margin-top: 30px;
+}
+#couvert{
+    color: black;
+}
